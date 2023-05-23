@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="5f01cd6c970761108fa2fc9fe153aff5" label="Needit Alarms" max_length="40" name="x_58872_needit_alarms" text_index="true" type="collection">
+        <element display="true" hint="Code of alarm" label="AlarmCode" mandatory="true" max_length="200" name="alarmcode" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="1" label="Status" max_length="40" name="status" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <index name="index">
+            <element name="sys_class_name"/>
+        </index>
+    </element>
+</database>
