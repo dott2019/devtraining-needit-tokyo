@@ -4,13 +4,13 @@
             <element>number</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-05-22 09:10:13</sys_created_on>
-            <sys_id>3c66bf04978321108fa2fc9fe153af2a</sys_id>
+            <sys_created_on>2023-05-24 09:14:49</sys_created_on>
+            <sys_id>239a8e7497c7a1108fa2fc9fe153afc6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_alarms" sys_domain="global" view="Default view">0f30ee3f973221108fa2fc9fe153af40</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-05-22 09:10:13</sys_updated_on>
+            <sys_updated_on>2023-05-24 09:14:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -18,27 +18,41 @@
             <element>alarmcode</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-05-22 09:10:13</sys_created_on>
-            <sys_id>f066bf04978321108fa2fc9fe153af2b</sys_id>
+            <sys_created_on>2023-05-24 09:14:49</sys_created_on>
+            <sys_id>e79a8e7497c7a1108fa2fc9fe153afc6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_alarms" sys_domain="global" view="Default view">0f30ee3f973221108fa2fc9fe153af40</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-05-22 09:10:13</sys_updated_on>
+            <sys_updated_on>2023-05-24 09:14:49</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-05-24 09:14:49</sys_created_on>
+            <sys_id>6b9a8e7497c7a1108fa2fc9fe153afc6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_alarms" sys_domain="global" view="Default view">0f30ee3f973221108fa2fc9fe153af40</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-05-24 09:14:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>status</element>
-            <position>2</position>
+            <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2023-05-22 09:10:13</sys_created_on>
-            <sys_id>7466bf04978321108fa2fc9fe153af2b</sys_id>
+            <sys_created_on>2023-05-24 09:14:49</sys_created_on>
+            <sys_id>eb9a8e7497c7a1108fa2fc9fe153afc6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_alarms" sys_domain="global" view="Default view">0f30ee3f973221108fa2fc9fe153af40</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2023-05-22 09:10:13</sys_updated_on>
+            <sys_updated_on>2023-05-24 09:14:49</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
